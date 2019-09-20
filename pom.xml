@@ -36,6 +36,14 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.30</version>
         </dependency>
+
+        <!--Secirity -->
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
     </dependencies>
 
     <properties>
